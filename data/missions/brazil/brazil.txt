@@ -1,0 +1,39 @@
+[config]
+currency = "R$"
+population = 101328
+economic_cycle_start = 0.28
+min_income = 4827
+max_income = 290000
+min_gdp = 2240000
+max_gdp = 3073000
+wealth_mod = 1.5
+starting_debt = 1382850
+name  = brazil
+guiname = "Brazil"
+names_file = "data\names\brazilnames.txt"
+term_length = 16 
+max_terms = 2
+details_image = "brazil_details.jpg"
+description = "Brazil is the largest country in both South America and the Latin American region. It is the world's fifth largest country, both by geographical area and by population. The Brazilian economy is the world's seventh largest by nominal GDP and the seventh largest by purchasing power parity, as of 2012. A member of the BRIC group, Brazil until 2010 had one of the world's fastest growing major economies, with its economic reforms giving the country new international recognition and influence."
+flag = "flag_brazil.jpg"
+apathy = 0.311
+jobtitle = "President"
+GUID = 0
+
+[options]
+COMPULSORY_VOTING
+
+[stats]
+Population: = "202, 656, 788 (December 2014)"
+Size: = "8,515,767 sq km"
+Life expectancy: = "72.6 years"
+Gini(inequality): = "51.9"
+GDP per capita: = "R$ 24.065"
+Poverty: = "9% (2012)"
+Ethnicity: = "White(47%), Pardo(43%), Black(7%)"
+Religion: = "Catholicism(73%), Protestantism(15%)"
+Big Mac Index = "$5.86"
+
+[policies]
+
+
